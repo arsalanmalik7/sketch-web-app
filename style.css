@@ -1,0 +1,22 @@
+#screen {
+    border: 2px solid blue;
+    box-sizing: border-box;
+}
+
+#bar {
+    box-sizing: border-box;
+    background-color: pink;
+    padding: 1rem;
+
+
+}
+select{
+    padding: 0.5rem;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+button{
+    padding: 0.5rem;
+    background-color: aquamarine;
+    font-weight: bold;
+}
